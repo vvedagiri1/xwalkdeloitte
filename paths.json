@@ -2,7 +2,8 @@
   "mappings": [
     "/content/dvv-xwalk/:/",
     "/content/dvv-xwalk/configuration:/.helix/config.json",
-    "/content/dvv-xwalk/metadata:/metadata.json"
+    "/content/dvv-xwalk/metadata:/metadata.json",
+    "/content/dvv-xwalk/redirects:/redirects.json"
   ],
   "includes": [
     "/content/dvv-xwalk/"
