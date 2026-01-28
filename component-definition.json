@@ -128,6 +128,29 @@
           }
         },
         {
+          "title": "Quote",
+          "id": "quote",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Quote",
+                  "model": "quote",
+                  "quote": "<p>Think, McFly! Think!</p>",
+                  "author": "Biff Tannen"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Blocks",
+      "id": "blocks",
+      "components": [
+        {
           "title": "Fragment",
           "id": "fragment",
           "plugins": {
